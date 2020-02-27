@@ -2,7 +2,8 @@
 
 * Autores: Rui Batista e equipa de extras do NVDA
 * Baixar [versão estável][1]
-* Baixar [versão de desenvolvimento][2]
+* NVDA compatibility: 2019.3 and beyond
+* Download [older version][2] compatible with NVDA 2019.2.1 and earlier
 
 Este extra permite aos utilizadores do NVDA rever o conteúdo da Janela como
 uma caixa de texto, semelhante à virtualização de janelas do JAWS para
@@ -16,6 +17,14 @@ Pressione NVDA+control+w para abrir a janela de revisão virtual. Em seguida,
 simplesmente navegue na caixa de texto mostrada como faz em qualquer outro
 conteúdo de texto. Pode pressionar Escape para fechar a janela de revisão
 virtual.
+
+## Changes for 3.0
+
+* Requires NVDA 2019.3 or later.
+
+## Changes for 2.3
+
+* Internal changes to support future NVDA releases.
 
 ## Mudanças para 2.2
 
@@ -61,4 +70,4 @@ virtual.
 
 [1]: https://addons.nvda-project.org/files/get.php?file=VR
 
-[2]: https://addons.nvda-project.org/files/get.php?file=VR
+[2]: https://addons.nvda-project.org/files/get.php?file=VR-2019

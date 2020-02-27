@@ -2,7 +2,8 @@
 
 * * Autori: Rui Batista e la comunità dei componenti aggiuntivi per NVDA
 * Download [stable version][1]
-* Download [development version][2]
+* NVDA compatibility: 2019.3 and beyond
+* Download [older version][2] compatible with NVDA 2019.2.1 and earlier
 
 Questo componente aggiuntivo permette di esaminare il testo della finestra
 corrente in un modo molto simile ad una funzionalità presente in Jaws, ossia
@@ -14,6 +15,14 @@ questa modalità non sostituisce la navigazione ad oggetti di NVDA.
 Premere NVDA+Control+w per virtualizzare la finestra corrente. Utilizzare
 poi i tasti di navigazione ed esplorazione del testo come frecce, pagina
 su/giù, per esaminarlo
+
+## Changes for 3.0
+
+* Requires NVDA 2019.3 or later.
+
+## Changes for 2.3
+
+* Internal changes to support future NVDA releases.
 
 ## Cambiamenti per 2.2
 
@@ -60,4 +69,4 @@ su/giù, per esaminarlo
 
 [1]: https://addons.nvda-project.org/files/get.php?file=VR
 
-[2]: https://addons.nvda-project.org/files/get.php?file=VR
+[2]: https://addons.nvda-project.org/files/get.php?file=VR-2019

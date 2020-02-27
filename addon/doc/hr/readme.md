@@ -1,60 +1,74 @@
-# Virtual Review #
+# Virtualni pregled (VirtualRevision) #
 
-* Authors: Rui Batista and NVDA Addon Team
-* Download [stable version][1]
-* Download [development version][2]
+* Autori: Rui Batista i NVDA tim za dodatke
+* Preuzmi [stabilnu verziju][1]
+* NVDA compatibility: 2019.3 and beyond
+* Download [older version][2] compatible with NVDA 2019.2.1 and earlier
 
-This Addon allows NVDA users to review a Window content in a text box,
-similar to window virtualization of JAWS for Windows.  Note, however, that
-this is just a convenience for users and does not replace NVDA's excellent
-review modes and object navigation support.
+Ovaj dodatak omogućuje korisnicima NVDA čitača ekrana pregledati sadržaj
+prozora u tekstualnom okviru, na sličan način kao u virtualizaciji prozora u
+JAWS čitaču za Windows. Dodatak je izrađen kako bi korisnici udobnije
+radili. Nije mišljen kao zamjena za odlični NVDA način pregledavanja i
+navigaciju po objektima.
 
-## Način korištenja ##
+## Primjena ##
 
-Pritisnite NVDA+control+w kako biste otvorili prozor virtualne revizije.
-Potom se jednostavno krećite po tekstualnom okviru kao što radite i u
-ostalim tekstualnim okvirima.  Možete pritisnuti escape da biste zatvorili
-prozor virtualne revizije.
+Pritiskanjem tipki NVDA+control+w otvara se prozor virtualnog
+pregleda. Navigacija u prikazanom tekstualnom okviru je ista, kao u
+uobičajenim tekstualnim sadržajima. Prozor virtualnog pregleda se zatvara
+pritiskom tipke escape.
 
-## Changes for 2.2
+## Changes for 3.0
 
-* When windows are minimized or if the foreground window has no title, NVDA
-  will record this fact when displaying virtual review window.
+* Requires NVDA 2019.3 or later.
 
-## Changes for 2.1
+## Changes for 2.3
 
-* The title of the screen under virtual review will be included.
-* It is now possible to review contents of Universal Windows Platform (UWP)
-  apps in Windows 10 and most modern apps in Windows 8.x.
-* When obtaining screen contents for modern and universal apps, a beep will
-  be heard to indicate when the virtual review window is ready.
+* Internal changes to support future NVDA releases.
 
-## Promjene u inačici 2.0
+## Promjene u verziji 2.2
 
-* New name: Virtual Review.
-* Due to changes in how content is shown, NVDA 2015.2 or later is required.
-* Thanks to new features in 2015.2 and later, you can now find text in
-  virtualized windows.
-* Popravljena funkcionalnost dodatka sa prozorima koji nisu terminali.
-* uklonjeni beskorisni prazni retci na kraju virtualiziranog prozora
-  konzole.
-* neka mala podešavanja.
+* Kad su prozori smanjeni ili ako prednji prozor nema naslov, NVDA će
+  zabilježiti tu činjenicu prilikom prikazivanja prozora virtualnog
+  pregleda.
+
+## Promjene u verziji 2.1
+
+* Uključit će se naslov ekrana koji se nalazi u virtualnom pregledu.
+* Sad je moguće pregledati sadržaj aplikacija Universal Windows Platform
+  (UWP) u sustavu Windows 10 kao i većine modernih aplikacija u sustavu
+  Windows 8.x.
+* Prilikom pribavljanja sadržaja ekrana za moderne i univerzalne aplikacije,
+  čut će se zvučni signal, kojim se ukazuje na to, da je prozor virtualnog
+  pregleda spreman.
+
+## Promjene u verziji 2.0
+
+* Novo ime: Virtual Review.
+* Zbog promjena u načinu prikazivanja sadržaja, potreban je NVDA 2015.2 ili
+  noviji.
+* Zahvaljujući novim funkcijama u 2015.2 i novijim verzijama, tekst je sada
+  moguće pronaći u virtualiziranim prozorima.
+* Popravljena je funkcionalnost dodatka s prozorima koji nisu terminali.
+* Uklonjeni su beskorisni prazni redci na kraju virtualiziranog prozora
+  terminala.
+* Neka mala podešavanja.
 * Dodani prijevodi.
 
-## promjene u inačici 1.2
+## Promjene u verziji 1.2
 
-* Podržana virtualizacija terminalnih prozora
+* Podržana virtualizacija prozora terminala
 
-## Promjene u inačici 1.1
+## Promjene u verziji 1.1
 
-* virtual revision je sada pretvoren u dodatak.
+* Virtual revision je pretvoren u dodatak.
 
-## Promjene u inačici 1.0
+## Promjene u verziji 1.0
 
-* Prva inačica
+* Prva verzija
 
 [[!tag dev stable]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=VR
 
-[2]: https://addons.nvda-project.org/files/get.php?file=VR
+[2]: https://addons.nvda-project.org/files/get.php?file=VR-2019

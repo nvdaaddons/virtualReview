@@ -2,7 +2,8 @@
 
 * Autorzy: Rui Batista i zespół dodatków NVDA
 * pobierz [wersja stabilna][1]
-* Pobierz [wersja rozwojowa][2]
+* Zgodność z wersjami NVDA: 2019.3 i nowszych
+* Pobierz [starszą wersję][2] zgodną z NVDA 2019.2.1 i starszą
 
 Ten dodatek umożliwia użytkownikom NVDA przegląd zawartości okna w polu
 edycyjnym, podobnie jak wirtualizacja okna w JAWS for Windows. Zwróć uwagę,
@@ -14,6 +15,14 @@ funkcji Podglądu ekranu i nawigacji obiektowej wbudowanych w NVDA.
 Naciśnij nvda+control+w aby otworzyć okno wirtualnego podglądu. Następnie
 przemieszczaj się po treści w polu edycyjnym, tak jak w każdej treści
 tekstowej. Możesz nacisnąć Escape, aby zamknąć okno.
+
+## Zmiany dla 3.0
+
+* Wymaga NVDA 2019.3 lub nowszą
+
+## Zmiany dla 2.3
+
+* Wewnętrzne zmiany dla wsparcia nowych wersji NVDA.
 
 ## zmiany w wersji 2.2
 
@@ -56,4 +65,4 @@ tekstowej. Możesz nacisnąć Escape, aby zamknąć okno.
 
 [1]: https://addons.nvda-project.org/files/get.php?file=VR
 
-[2]: https://addons.nvda-project.org/files/get.php?file=VR
+[2]: https://addons.nvda-project.org/files/get.php?file=VR-2019

@@ -2,7 +2,8 @@
 
 * Autores: Rui Batista e time de complementos do NVDA
 * Baixe a [versão estável][1]
-* Baixe a [versão em desenvolvimento][2]
+* Compatibilidade com NVDA: 2019.3 e posteriores
+* Baixe a [versão mais antiga][2] compatível com NVDA 2019.2.1 e anteriores
 
 Este complemento possibilita aos usuários do NVDA explorar o conteúdo duma
 janela numa caixa de texto, de modo similar à virtualização de janelas do
@@ -16,6 +17,14 @@ Pressione NVDA+Control+w para abrir a janela de exploração virtual. Aí
 simplesmente navegue na caixa de texto exibida como se faz em qualquer outro
 conteúdo textual. Pode pressionar escape para fechar a janela de exploração
 virtual.
+
+## Mudanças na 3.0
+
+* Requer NVDA 2019.3 ou posterior.
+
+## Mudanças na 2.3
+
+* Alterações internas para suportar futuras versões de NVDA.
 
 ## Mudanças na 2.2
 
@@ -61,4 +70,4 @@ virtual.
 
 [1]: https://addons.nvda-project.org/files/get.php?file=VR
 
-[2]: https://addons.nvda-project.org/files/get.php?file=VR
+[2]: https://addons.nvda-project.org/files/get.php?file=VR-2019

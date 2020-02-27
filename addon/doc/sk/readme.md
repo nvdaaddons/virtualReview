@@ -1,39 +1,47 @@
-# Virtual Review #
+# Virtualizácia okna #
 
-* Authors: Rui Batista and NVDA Addon Team
-* Download [stable version][1]
-* Download [development version][2]
+* Autori: Rui Batista a tím NVDA
+* Stiahnuť [stabilnú verziu][1]
+* Funguje od verzie NVDA 2019.3
+* Stiahnuť  [Staršiu verziu pre][2] pre NVDA do verzie 2019.2.1.
 
-This Addon allows NVDA users to review a Window content in a text box,
-similar to window virtualization of JAWS for Windows.  Note, however, that
-this is just a convenience for users and does not replace NVDA's excellent
-review modes and object navigation support.
+Doplnok umožňuje zobraziť obsah okna v jednoduchom textovom poli rovnako,
+ako funkcia virtualizácia oknaprogramu JAWS pre Windows. Upozorňujeme však,
+že ide len o zjednodušenie pre používateľov a tento doplnok nenahrádza
+funkcie režim prezerania a objektovú navigáciu NVDA.
 
 ## použitie ##
 
 Okno virtualizujete skratkou ctrl+nvda+w. Po texte sa pohybujte tak, ako v
 ostatných editačných poliach. Okno zavriete klávesom escape.
 
-## Changes for 2.2
+## Zmeny vo verzii 3.0
 
-* When windows are minimized or if the foreground window has no title, NVDA
-  will record this fact when displaying virtual review window.
+* Vyžaduje NVDA od verzie 2019.3
 
-## Changes for 2.1
+## Zmeny vo verzii 2.3
 
-* The title of the screen under virtual review will be included.
-* It is now possible to review contents of Universal Windows Platform (UWP)
-  apps in Windows 10 and most modern apps in Windows 8.x.
-* When obtaining screen contents for modern and universal apps, a beep will
-  be heard to indicate when the virtual review window is ready.
+* Interné zmeny na podporu novších vydaní NVDA
+
+## Zmeny vo verzii 2.2
+
+* NVDA zaznamená, ak je okno minimalizované, alebo nemá názov.
+
+## Zmeny vo verzii 2.1
+
+* NVDA oznamuje aj názov obrazovky vo virtuálnom zobrazení.
+* Je možné virtuálne zobraziť okná navrhnuté v prostredí UWP (Universal
+  Windows app). Ide o moderné aplikácie pre Windows od verzie 8.
+* NVDA pípnutím oznamuje, že sa dokončilo virtualizovanie okna v prostredí
+  modernej aplikácie.
 
 ## Zmeny vo verzii 2.0
 
-* New name: Virtual Review.
-* Due to changes in how content is shown, NVDA 2015.2 or later is required.
-* Thanks to new features in 2015.2 and later, you can now find text in
-  virtualized windows.
-* opravené zobrazenie okien konzlolvých prostredí.
+* Nový názov (len v angličtine)
+* Vyžaduje sa NVDA od verzie 2015.2
+* Odteraz je vďaka novým funkciám v NVDA 2015.2 možné vo virtuálnom okne
+  vyhľadávať.
+* opravené zobrazenie okien konzololvých prostredí.
 * Odstránené zbytočné prázdne riadky v zobrazení konzllových aplikácii.
 * Ďalšie malé úpravy.
 * Aktualizované preklady.
@@ -44,7 +52,7 @@ ostatných editačných poliach. Okno zavriete klávesom escape.
 
 ## Zmeny vo verzii 1.1
 
-* Vytvorenie štandardného nvda-addon balíka.
+* Vytvorenie štandardného doplnku NVDA.
 
 ## Zmeny vo verzii 1.0
 
@@ -54,4 +62,4 @@ ostatných editačných poliach. Okno zavriete klávesom escape.
 
 [1]: https://addons.nvda-project.org/files/get.php?file=VR
 
-[2]: https://addons.nvda-project.org/files/get.php?file=VR
+[2]: https://addons.nvda-project.org/files/get.php?file=VR-2019

@@ -2,7 +2,8 @@
 
 * 作者：Rui Batista和NVDA Addon团队
 * 下载 [稳定版][1]
-* 下载 [开发板][2]
+* NVDA compatibility: 2019.3 and beyond
+* Download [older version][2] compatible with NVDA 2019.2.1 and earlier
 
 此Addon允许NVDA用户在文本框中查看Window内容，类似于JAWS for
 Windows的窗口虚拟化。但请注意，这只是为用户带来的便利，并不能取代NVDA出色的浏览模式和对象导航支持。
@@ -10,6 +11,14 @@ Windows的窗口虚拟化。但请注意，这只是为用户带来的便利，�
 ## 用法 ##
 
 按下NVDA + control + w打开虚拟修订窗口。然后，像在任何其他文本内容中一样，只需导航显示的文本框。您可以按Escape关闭虚拟修订窗口。
+
+## Changes for 3.0
+
+* Requires NVDA 2019.3 or later.
+
+## Changes for 2.3
+
+* Internal changes to support future NVDA releases.
 
 ## 版本2.2
 
@@ -47,4 +56,4 @@ Windows的窗口虚拟化。但请注意，这只是为用户带来的便利，�
 
 [1]: https://addons.nvda-project.org/files/get.php?file=VR
 
-[2]: https://addons.nvda-project.org/files/get.php?file=VR
+[2]: https://addons.nvda-project.org/files/get.php?file=VR-2019

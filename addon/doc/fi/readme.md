@@ -2,7 +2,9 @@
 
 * Tekijät: Rui Batista ja NVDA-lisäosatiimi
 * Lataa [vakaa versio][1]
-* Lataa [kehitysversio][2]
+* Yhteensopivuus: NVDA 2019.3 ja uudemmat
+* Lataa [vanhempi versio,][2], joka on yhteensopiva NVDA 2019.2.1:n ja sitä
+  vanhempien kanssa
 
 Tämän lisäosan avulla NVDA:n käyttäjät voivat tarkastella ikkunan sisältöä
 tekstiruudussa samaan tapaan kuin JAWSin ikkunan virtualisointitoiminnossa.
@@ -14,6 +16,14 @@ tarkastelutiloja tai objektinavigointia.
 Virtualisoi aktiivinen ikkuna painamalla NVDA+Ctrl+W. Voit liikkua näkyviin
 tulevassa tekstiruudussa kuten missä tahansa muussa tekstissä.  Sulje ikkuna
 painamalla Esc.
+
+## Muutokset versiossa 3.0
+
+* Vaatii NVDA 2019.3:n tai uudemman.
+
+## Muutokset versiossa 2.3
+
+* Sisäisiä muutoksia tulevien NVDA-versioiden tukemiseksi.
 
 ## Muutokset versiossa 2.2
 
@@ -58,4 +68,4 @@ painamalla Esc.
 
 [1]: https://addons.nvda-project.org/files/get.php?file=VR
 
-[2]: https://addons.nvda-project.org/files/get.php?file=VR
+[2]: https://addons.nvda-project.org/files/get.php?file=VR-2019

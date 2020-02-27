@@ -2,7 +2,8 @@
 
 * Авторы: Rui Batista и Команда Дополнений NVDA
 * Загрузить [стабильную версию][1]
-* Загрузить [разрабатываемую версию][2]
+* NVDA compatibility: 2019.3 and beyond
+* Download [older version][2] compatible with NVDA 2019.2.1 and earlier
 
 Это дополнение позволяет пользователям NVDA просматривать содержимое окна в
 текстовом поле, аналогично окну виртуального просмотра в JAWS для
@@ -14,6 +15,14 @@ Windows. Заметим, что это всего лишь удобство дл
 Нажмите NVDA+control+w для открытия окна виртуального просмотра. Затем
 перемещайтесь в появившемся текстовом поле, как в любом другом текстовом
 содержимом. Для закрытия окна виртуального просмотра нажимайте Escape.
+
+## Changes for 3.0
+
+* Requires NVDA 2019.3 or later.
+
+## Changes for 2.3
+
+* Internal changes to support future NVDA releases.
 
 ## Изменения для 2.2
 
@@ -58,4 +67,4 @@ Windows. Заметим, что это всего лишь удобство дл
 
 [1]: https://addons.nvda-project.org/files/get.php?file=VR
 
-[2]: https://addons.nvda-project.org/files/get.php?file=VR
+[2]: https://addons.nvda-project.org/files/get.php?file=VR-2019

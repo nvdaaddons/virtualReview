@@ -2,7 +2,9 @@
 
 * Autores: Rui Batista e equipo de complementos do NVDA
 * Descargar [versión estable][1]
-* Descargar [versión de desenvolvemento][2]
+* Compatibilidade con NVDA: 2019.3 en diante
+* Descargar [versión máis antiga][2] compatible con NVDA 2019.2.1 e
+  anteriores
 
 Este complemento permite ós usuarios do NVDA revisar un contido dunha ventá
 nunha caixa de texto, similar á virtualización de ventás do JAWS for
@@ -16,6 +18,14 @@ Preme nvda+control+w para abrir a Ventá de revisión virtual. Logo
 sinxelamente navega polo que se amosa no cadro de texto como o fas en
 calquera outro contido de texto. Podes premer escape para pechar a ventá de
 revisión virtual.
+
+## Cambios para 3.0
+
+* Require NVDA 2019.3 ou posterior.
+
+## Cambios para 2.3
+
+* Trocos internos para soportar versións futuras de NVDA.
 
 ## Cambios para 2.2
 
@@ -61,4 +71,4 @@ revisión virtual.
 
 [1]: https://addons.nvda-project.org/files/get.php?file=VR
 
-[2]: https://addons.nvda-project.org/files/get.php?file=VR
+[2]: https://addons.nvda-project.org/files/get.php?file=VR-2019
