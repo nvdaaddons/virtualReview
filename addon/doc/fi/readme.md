@@ -3,8 +3,6 @@
 * Tekijät: Rui Batista ja NVDA-lisäosatiimi
 * Lataa [vakaa versio][1]
 * Yhteensopivuus: NVDA 2019.3 ja uudemmat
-* Lataa [vanhempi versio,][2], joka on yhteensopiva NVDA 2019.2.1:n ja sitä
-  vanhempien kanssa
 
 Tämän lisäosan avulla NVDA:n käyttäjät voivat tarkastella ikkunan sisältöä
 tekstiruudussa samaan tapaan kuin JAWSin ikkunan virtualisointitoiminnossa.
@@ -67,5 +65,3 @@ painamalla Esc.
 [[!tag dev stable]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=VR
-
-[2]: https://addons.nvda-project.org/files/get.php?file=VR-2019

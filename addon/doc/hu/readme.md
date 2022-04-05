@@ -1,11 +1,8 @@
 # Virtuális áttekintő #
 
-* Készítők: Rui Batista és az NVDA bővítmények-csoport*   Letöltés:
-  [Fejlesztői verzió 2.0-dev][1]
-
+* Készítők: Rui Batista és az NVDA bővítmények-csoport
 * Download [stable version][1]
 * NVDA compatibility: 2019.3 and beyond
-* Download [older version][2] compatible with NVDA 2019.2.1 and earlier
 
 Ezzel a kiegészítővel az NVDA felhasználók áttekinthetik az ablak tartalmát
 egy szövegmezőben, hasonlóképpen ahogy ez a Jaws for Windows programban is
@@ -66,5 +63,3 @@ elolvasásához. Az Esc lenyomásával zárhatja be az ablakot.
 [[!tag dev stable]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=VR
-
-[2]: https://addons.nvda-project.org/files/get.php?file=VR-2019

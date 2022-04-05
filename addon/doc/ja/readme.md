@@ -3,7 +3,6 @@
 * * 作者: Rui Batista, NVDAアドオンチーム
 * ダウンロード [安定版][1]
 * NVDA compatibility: 2019.3 and beyond
-* Download [older version][2] compatible with NVDA 2019.2.1 and earlier
 
 このアドオンを使うと、NVDAユーザーは、ウィンドウの内容をテキストボックスでレビューできます。この機能はJAWS for
 Windowsのウィンドウ仮想化機能に似ています。この機能はユーザーの便宜のためのもので、NVDAの優れたレビューモードとオブジェクトナビゲーションの代わりになるものでは"ありません"。
@@ -56,5 +55,3 @@ NVDA+Ctrl+Wを押して、仮想レビューウィンドウを開きます。他
 [[!tag dev stable]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=VR
-
-[2]: https://addons.nvda-project.org/files/get.php?file=VR-2019

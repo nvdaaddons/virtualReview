@@ -2,8 +2,7 @@
 
 * Autores: Rui Batista e equipa de extras do NVDA
 * Baixar [versão estável][1]
-* NVDA compatibility: 2019.3 and beyond
-* Download [older version][2] compatible with NVDA 2019.2.1 and earlier
+* Compatibilidade com NVDA: 2017.3 a 2019.2
 
 Este extra permite aos utilizadores do NVDA rever o conteúdo da Janela como
 uma caixa de texto, semelhante à virtualização de janelas do JAWS para
@@ -69,5 +68,3 @@ virtual.
 [[!tag dev stable]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=VR
-
-[2]: https://addons.nvda-project.org/files/get.php?file=VR-2019

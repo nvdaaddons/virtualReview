@@ -3,8 +3,6 @@
 * Autores: Rui Batista y equipo de complementos de NVDA
 * Descargar [versión estable][1]
 * Compatibilidad con NVDA: 2019.3 y versiones posteriores
-* Descargar [versión más antigua][2] compatible con NVDA 2019.2.1 y
-  versiones anteriores
 
 Este complemento permite a los usuarios de NVDA revisar el contenido de una
 ventana en un cuadro de texto, similar a la virtualización de ventanas de
@@ -71,5 +69,3 @@ revisión virtual.
 [[!tag dev stable]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=VR
-
-[2]: https://addons.nvda-project.org/files/get.php?file=VR-2019

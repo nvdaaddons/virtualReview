@@ -1,12 +1,11 @@
-# Virtual Review #
+# Revue virtuelle #
 
 * Auteurs : Rui Batista et l'équipe de la communauté des modules
   complémentaires NVDA
 * Télécharger [version stable ][1]
-* NVDA compatibility: 2019.3 and beyond
-* Download [older version][2] compatible with NVDA 2019.2.1 and earlier
+* Compatibilité NVDA : 2019.3 et au-delà
 
-Cette extension permet aux utilisateurs de NVDA de révisez le contenu d'une
+Cette extension permet aux utilisateurs de NVDA de réviser le contenu d'une
 fenêtre dans une zone de texte, de la même manière qu'avec la virtualisation
 de la fenêtres de Jaws pour Windows. A notez cependant que ceci n'est qu'une
 facilité pour les utilisateurs et ne remplace pas l'excellent support  pour
@@ -19,19 +18,20 @@ virtuelle. Puis naviguez simplement dans la zone de texte affichée comme
 vous feriez dans n'importe quel texte.  Vous pouvez appuyer sur ÉCHAP pour
 fermer la fenêtre de révision virtuelle.
 
-## Changes for 3.0
+## Changements pour la version 3.0
 
-* Requires NVDA 2019.3 or later.
+* Nécessite NVDA 2019.3 ou version ultérieure.
 
-## Changes for 2.3
+## Changements pour la version 2.3
 
-* Internal changes to support future NVDA releases.
+* Modifications internes pour prendre en charge les futures versions de
+  NVDA.
 
 ## Changements pour la version 2.2
 
-* Lorsque les fenêtres sont minimisées ou si la fenêtre en premier plan n'a
-  aucun titre, NVDA enregistrera ce fait lors de l'affichage de la fenêtre
-  de révision virtuelle.
+* Lorsque les fenêtres sont minimisées ou si la fenêtre active n'a aucun
+  titre, NVDA annoncera ce fait lors de l'affichage de la fenêtre de rrevue
+  virtuelle.
 
 ## Changements pour la version 2.1
 
@@ -45,7 +45,7 @@ fermer la fenêtre de révision virtuelle.
 
 ## Changements pour la version 2.0
 
-* Nouveau nom : Virtual Review.
+* Nouveau nom : Revue Virtuelle.
 * En raison des modifications apportées à la manière dont le contenu est
   affiché, NVDA 2015.2 ou version ultérieure est requise.
 * Grâce aux nouvelles fonctionnalités en 2015.2 et ultérieure, vous pouvez
@@ -71,5 +71,3 @@ fermer la fenêtre de révision virtuelle.
 [[!tag dev stable]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=VR
-
-[2]: https://addons.nvda-project.org/files/get.php?file=VR-2019

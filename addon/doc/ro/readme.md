@@ -3,7 +3,6 @@
 * Autori: Rui Batista și echipa de suplimente NVDA
 * Descărcați [versiunea stabilă][1]
 * NVDA compatibility: 2019.3 and beyond
-* Download [older version][2] compatible with NVDA 2019.2.1 and earlier
 
 Acest supliment le permite utilizatorilor NVDA să examineze un conținut de
 ferestre într-o casetă de text, similar cu virtualizarea ferestrei JAWS
@@ -69,5 +68,3 @@ de text. Puteți apăsa Escape pentru a închide fereastra virtual revision.
 [[!tag dev stable]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=VR
-
-[2]: https://addons.nvda-project.org/files/get.php?file=VR-2019

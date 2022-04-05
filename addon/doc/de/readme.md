@@ -1,10 +1,8 @@
 # Virtuelles Fenster #
 
 * * Autoren: Rui Batista und das Team für die NVDA-Erweiterungen
-  * Download: [Entwicklerversion 2.0-dev][1]
 * [Stabile Version herunterladen][1]
-* NVDA compatibility: 2019.3 and beyond
-* Download [older version][2] compatible with NVDA 2019.2.1 and earlier
+* NVDA-Kompatibilität: 2019.3 und höher
 
 Mit dieser Erweiterung können NVDA-Nutzer den Inhalt des aktuellen Fensters
 in einem Textfenster anzeigen lassen, ähnlich wie die Fenstervirtualisierung
@@ -19,13 +17,13 @@ dann einfach durch das angezeigte Textfeld, wie Sie es auch in anderen
 Textinhalten tun. Sie können anschließend die Escape-Taste drücken, um das
 Fenster zu schließen.
 
-## Changes for 3.0
+## Änderungen in 3.0
 
-* Requires NVDA 2019.3 or later.
+* Benötigt NVDA 2019.3 oder neuer.
 
-## Changes for 2.3
+## Änderungen in 2.3
 
-* Internal changes to support future NVDA releases.
+* Interne Änderungen zur Unterstützung zukünftiger NVDA-Versionen.
 
 ## Änderungen in 2.2
 
@@ -43,7 +41,7 @@ Fenster zu schließen.
 
 ## Änderungen in 2.0
 
-* Neuer Name: Virtuelle Ansicht
+* Neuer Name: Virtuelle Ansicht.
 * Bezüglich der Änderungen zur Darstellung der Inhalte wird NVDA 2015.2 oder
   neuer benötigt.
 * Dank der neuen Features seit der Version 2015.2 können Sie sich jetzt Text
@@ -57,7 +55,7 @@ Fenster zu schließen.
 
 ## Änderungen in 1.2
 
-* Unterstützung zum Virtualisieren von Konsolenfenstern.
+* Unterstützung der Virtualisierung von Konsolenfenstern
 
 ## Änderungen in 1.1
 
@@ -65,10 +63,8 @@ Fenster zu schließen.
 
 ## Änderungen in 1.0
 
-* Erstes Release.
+* Erstveröffentlichung
 
 [[!tag dev stable]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=VR
-
-[2]: https://addons.nvda-project.org/files/get.php?file=VR-2019

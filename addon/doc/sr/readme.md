@@ -3,7 +3,6 @@
 * Autori: Rui Batista i NVDA tim za dodatke
 * Preuzmi[stabilnu verziju][1]
 * NVDA compatibility: 2019.3 and beyond
-* Download [older version][2] compatible with NVDA 2019.2.1 and earlier
 
 Ovaj dodatak dozvoljava korisnicima pregled sadržaja prozora u jednom
 tekstualnom polju, slično virtualizaciji prozora u Jawsu.  Imajte na umu, da
@@ -65,5 +64,3 @@ can press Escape to close the virtual revision window.
 [[!tag dev stable]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=VR
-
-[2]: https://addons.nvda-project.org/files/get.php?file=VR-2019

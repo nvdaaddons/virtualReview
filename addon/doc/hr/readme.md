@@ -1,9 +1,8 @@
-# Virtualni pregled (VirtualRevision) #
+# Virtualni pregled (Virtual Review) #
 
 * Autori: Rui Batista i NVDA tim za dodatke
 * Preuzmi [stabilnu verziju][1]
-* NVDA compatibility: 2019.3 and beyond
-* Download [older version][2] compatible with NVDA 2019.2.1 and earlier
+* NVDA kompatibilnost: 2019.3 i novija
 
 Ovaj dodatak omogućuje korisnicima NVDA čitača ekrana pregledati sadržaj
 prozora u tekstualnom okviru, na sličan način kao u virtualizaciji prozora u
@@ -13,18 +12,18 @@ navigaciju po objektima.
 
 ## Primjena ##
 
-Pritiskanjem tipki NVDA+control+w otvara se prozor virtualnog
+Pritiskanjem tipki NVDA+kontrol+w otvara se prozor virtualnog
 pregleda. Navigacija u prikazanom tekstualnom okviru je ista, kao u
 uobičajenim tekstualnim sadržajima. Prozor virtualnog pregleda se zatvara
 pritiskom tipke escape.
 
-## Changes for 3.0
+## Promjene u verziji 3.0
 
-* Requires NVDA 2019.3 or later.
+* Zahtijeva NVDA 2019.3 ili noviju verziju.
 
-## Changes for 2.3
+## Promjene u verziji 2.3
 
-* Internal changes to support future NVDA releases.
+* Unutarnje promjene, kako bi se podržala buduća NVDA izdanja.
 
 ## Promjene u verziji 2.2
 
@@ -44,7 +43,7 @@ pritiskom tipke escape.
 
 ## Promjene u verziji 2.0
 
-* Novo ime: Virtual Review.
+* Novo ime: Virtual Review (Virtualni pregled).
 * Zbog promjena u načinu prikazivanja sadržaja, potreban je NVDA 2015.2 ili
   noviji.
 * Zahvaljujući novim funkcijama u 2015.2 i novijim verzijama, tekst je sada
@@ -70,5 +69,3 @@ pritiskom tipke escape.
 [[!tag dev stable]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=VR
-
-[2]: https://addons.nvda-project.org/files/get.php?file=VR-2019

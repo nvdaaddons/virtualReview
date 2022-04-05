@@ -3,7 +3,6 @@
 * نویسندگان: Rui Batista و گروه افزونه‌های NVDA
 * دانلود [نسخه‌ی پایدار][1]
 * NVDA compatibility: 2019.3 and beyond
-* Download [older version][2] compatible with NVDA 2019.2.1 and earlier
 
 این افزونه به کاربران NVDA اجازه میدهد تا محتوای یک پنجره را داخل یک کادر
 متنی بازبینی کنند، همانند امکانِ مجازی‌سازی پنجره‌ها در صفحه‌خوان
@@ -69,5 +68,3 @@ NVDA نمیشود.
 [[!tag dev stable]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=VR
-
-[2]: https://addons.nvda-project.org/files/get.php?file=VR-2019

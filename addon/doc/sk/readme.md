@@ -3,7 +3,6 @@
 * Autori: Rui Batista a tím NVDA
 * Stiahnuť [stabilnú verziu][1]
 * Funguje od verzie NVDA 2019.3
-* Stiahnuť  [Staršiu verziu pre][2] pre NVDA do verzie 2019.2.1.
 
 Doplnok umožňuje zobraziť obsah okna v jednoduchom textovom poli rovnako,
 ako funkcia virtualizácia oknaprogramu JAWS pre Windows. Upozorňujeme však,
@@ -61,5 +60,3 @@ ostatných editačných poliach. Okno zavriete klávesom escape.
 [[!tag dev stable]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=VR
-
-[2]: https://addons.nvda-project.org/files/get.php?file=VR-2019
